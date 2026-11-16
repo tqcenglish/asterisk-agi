@@ -1,0 +1,18 @@
+[package]
+name = "asterisk-agi"
+description = "Minimal crate to support writing a program for Asterisk's AGI"
+license = "MIT OR Apache-2.0"
+homepage = "https://gitlab.com/mawim/asterisk-agi"
+repository = "https://gitlab.com/mawim/asterisk-agi"
+authors = ["Matthias Wimmer <m@tthias.eu>"]
+keywords = ["asterisk", "agi"]
+version = "0.2.0"
+edition = "2018"
+
+[dependencies]
+chrono = "0.4"
+chrono-tz = "0.4"
+lazy_static = "1.4.0"
+log = "0.4.14"
+regex = "1.4.3"
+thiserror = "2.0.18"
