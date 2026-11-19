@@ -16,3 +16,7 @@ lazy_static = "1.4.0"
 log = "0.4.14"
 regex = "1.4.3"
 thiserror = "2.0.18"
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
+libc = "0.2"
+signal-hook = "0.3"

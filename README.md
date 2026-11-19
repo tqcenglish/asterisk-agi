@@ -2,9 +2,6 @@
 
 A minimal crate for writing Asterisk AGI (Asterisk Gateway Interface) programs in Rust.
 
-Fork of [mawim/asterisk-agi](https://gitlab.com/mawim/asterisk-agi), with the
-API expanded to mirror the features of the Go
-[`CyCoreSystems/agi`](https://github.com/CyCoreSystems/agi) library.
 
 ## Two APIs
 

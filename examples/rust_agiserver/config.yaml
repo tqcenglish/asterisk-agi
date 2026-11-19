@@ -1,0 +1,6 @@
+play_worknumber:
+  before_worknumber_audio_path: "custom/before_worknumber"
+  after_worknumber_audio_path: "custom/after_worknumber"
+  worknumber_extension_map:
+    "12345": "1001"
+    "67890": "1002"
